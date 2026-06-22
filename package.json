@@ -1,6 +1,6 @@
 {
   "name": "@idleflowgames/capacitor-in-app-review",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Capacitor 8 plugin for native in-app review prompts: Google Play In-App Review on Android, SKStoreReviewController on iOS.",
   "type": "module",
   "main": "dist/plugin.cjs.js",
